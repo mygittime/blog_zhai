@@ -11,7 +11,7 @@ title: 我的博客
 
 　　{% for post in site.posts %}
 
-　　　　<li><a href="{{ site.baseurl }}{{ post.url }}">点我进入</a></li>
+　　　　<li>{{post.date | date_to_string}}<a href="{{ site.baseurl }}{{ post.url }}"></a></li>
 
 　　 {% endfor %}
 
