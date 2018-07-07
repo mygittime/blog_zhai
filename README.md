@@ -8,7 +8,7 @@
 + 感谢[Less官网](http://lesscss.cn/)的样式，本Jekyll框架的样式都是基于Less官网的样式直接拷贝过来的。只是重构了JS，并且加入了Jekyll语法而已。
 + 感谢[Github](https://github.com/)提供的代码维护和发布平台
 + 感谢[Jekyll](https://jekyllrb.com/)团队做出如此优秀的产品
-+ 感谢[Solar](https://github.com/mattvh/solar-theme-jekyll)的原作者[Matt Harzewski](http://www.webmaster-source.com/)，在`2014.11`-`2016.09`的两年间，我的博客选用了此样式模版
++ 感谢[Solar](https://github.com/mattvh/solar-theme-jekyll)的原作者[康志华](https://github.com/luoyan35714)，在我开始编写博客时为我提供这么好的模板
 
 
 使用
@@ -95,7 +95,7 @@ jekyll server
 
 重复造了轮子，但是这个是迄今为止自己觉得最适合我的博客的轮子，所以是值得的！
 
-关于作者
+<!-- 关于作者
 ====================================
 
 热爱开源，热爱折腾的Java程序猿。更多个人信息和联系方式可以参照[我的简介](http://www.hifreud.com/Resume.io/)。
@@ -114,4 +114,4 @@ jekyll server
 
 微信
 ----------------
-![微信二维码付款给Freud](/styles/images/weixin.png)
+![微信二维码付款给Freud](/styles/images/weixin.png) -->
