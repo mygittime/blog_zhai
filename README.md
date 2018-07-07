@@ -1,5 +1,7 @@
 # LessOrMore
 
+博客访问地址:https://mygittime.github.io/blog_zhai/
+
 
 致谢
 ====================================
