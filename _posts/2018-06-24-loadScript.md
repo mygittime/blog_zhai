@@ -2,7 +2,7 @@
 layout: post
 title:  同一页面多个模块需要依赖相同js文件的解决方案
 date:   2018-06-24 00:00:00 +0800
-categories: ""
+categories: "javascript"
 tag: ""
 ---
 
